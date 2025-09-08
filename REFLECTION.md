@@ -1,6 +1,7 @@
 ## Reflection
 For this assignment, I built my personal resume as a webpage using HTML. The goal was to understand web design principles, semantic HTML, and accessibility.
 
+# Structure:
 My code is simple but well-structured. I used <header>, <section>, and <footer> to organize the page. Each section has clear content like About Me, Skills, and Experience. I also added links, an image with alt text, and an SVG graphic. This made the page more professional and accessible.
 
 My coding process started with setting up the project folder and initializing Git. I made commits after every task, like adding structure, filling sections, and checking accessibility. This helped me track progress step by step.
