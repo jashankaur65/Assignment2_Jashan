@@ -12,4 +12,5 @@ The main challenge was making sure I used proper semantic elements and followed 
 
 If I did this again, I would plan my sections better before starting. I would also add more content, like a small portfolio or references, to make my resume stronger.
 
+# Overall 
 Overall, this assignment taught me the importance of semantic HTML, accessibility, and version control. It connects to my course because these are the basics of application delivery and development. Before styling or adding advanced features, having a solid and accessible structure is the foundation.
